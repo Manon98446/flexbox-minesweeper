@@ -1,5 +1,7 @@
 # flexbox-minesweeper
 
+ See results at: https://manon98446.github.io/flexbox-minesweeper/
+
 We all remember those little games we have/had on our windows computers. Pinball, Patience, Minesweeper, ... Well, today we are just going to make just that. A Minesweeper! Now, don't worry, all I want it a static moment of the game, similar to the one displayed below.
 
 You don't have to make an exact copy of the minefield, but try to have the following:
