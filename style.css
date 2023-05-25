@@ -5,10 +5,11 @@ body{
     display: flex;
     align-items: center;
     font-weight:bold;
+    font-family: 'VT323', monospace;
 
 }
 .playground{
-    font-size: 30px;
+    font-size: 45px;
 }
 img{
     width: 50px;
